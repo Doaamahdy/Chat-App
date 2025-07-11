@@ -99,4 +99,4 @@ npm run dev   # starts on http://localhost:5173
 
 ## 🙋‍♀️ Author
 
-- **Doaa Mahdy** –(https://github.com/Doaamahdy)
+- **Doaa Mahdy** – [@Doaamahdy](https://github.com/Doaamahdy)
